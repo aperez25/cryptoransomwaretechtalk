@@ -1,6 +1,6 @@
-# Crypto-Ransomware Tech Talk
+# Crypto-Ransomware Tech Talk: <a href="https://youtu.be/-1FInW1HCbw"> YouTube video</a>
 
-## Includes: PDF & Keynote file for the Fullstack Tech Talk. 
+## Repo includes: PDF & Keynote file for the Fullstack Tech Talk. 
 
 Introductory 10-minute presentation on crypto-ransomware, explaining:
 - the encryption algorithms that are used
